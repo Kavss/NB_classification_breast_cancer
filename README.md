@@ -1,4 +1,4 @@
-# classification_cancer_dataset
+# NB_classification_breast_cancer
 
 Breast cancer prediction using Naive Bayes classifier.
 The dataset contains features from a digitized image of a fine needle aspirate (FNA) of a breast mass.
